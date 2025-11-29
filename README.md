@@ -1,4 +1,3 @@
-Anwaar-ul-Karim Shah@MAAAKS MINGW64 ~
 $ cd C:\Users\Anwaar-ul-Karim Shah\Desktop\Assignment
 bash: cd: too many arguments
 
@@ -57,4 +56,43 @@ Total 4 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
 To https://github.com/Muhammad-Muzammil-Shah/cde-b1-assignments.git
    0cd556a..a8f0fbd  main -> main
 branch 'main' set up to track 'origin/main'.
+
+
+
+# cde-b1-assignments
+
+## Overview
+This repository contains Python assignments for basic programming practice. It is designed for students to learn and demonstrate foundational Python skills.
+
+---
+
+## Assignment 01: Python Basics
+
+**Topics Covered:**
+- Variables and data types
+- Print statements and escape sequences
+- Arithmetic, comparison, logical, bitwise, and assignment operators
+- Conditional statements (if, elif, else)
+- User input and output
+- Simple calculations (percentage, marks, bonus, voting eligibility, even/odd, divisibility, etc.)
+- Grading system and attendance logic
+- Leap year calculation
+- Service placement logic based on age/gender
+- Electricity bill calculation
+- Finding oldest/youngest among three people
+
+**How to Use:**
+- Open the notebook `Assignment 01 (Python Basics).ipynb` in Jupyter or Google Colab.
+- Follow each cell and run the code to see results and learn Python basics.
+- Modify the code to practice and experiment with different inputs.
+
+---
+
+## Contributing
+Contributions are welcome! Fork the repo and submit pull requests for improvements or new assignments.
+
+---
+
+## License
+This project is licensed under the MIT License.
 
